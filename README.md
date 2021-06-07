@@ -35,12 +35,20 @@
 
 ###### **3.1.1 Arme el circuito que se muestra en la figura 1.1.**
 
-![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/Figura%201.1.png)
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap1.PNG)
 
 ###### **3.1.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.**
 
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap2.PNG)
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap3.PNG)
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap4.PNG)
 
 ###### **Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
+
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap5-tabla.PNG)
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap6.PNG)
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap7.PNG)
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/cap8.PNG)
 
 ###### **3.1.3  Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada  considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2**
 
