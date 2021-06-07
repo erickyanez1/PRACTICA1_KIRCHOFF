@@ -1,6 +1,6 @@
 # InformeLaboratorio
 
-![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/espe.png)
+\t ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/espe.png)
 
 # **INTEGRANTES**
 
