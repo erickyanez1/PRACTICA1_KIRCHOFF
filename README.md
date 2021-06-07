@@ -6,11 +6,11 @@ Integrantes
  
  •Villavicencio Alina
   
- •Yanez Erick
+ •Yánez Erick
  
 # 1.OBJETIVOS
 
-###### Objetivo General
+###### **Objetivo General**
 
-###### Objetivos específicos
+###### Objetivos Específicos
 
