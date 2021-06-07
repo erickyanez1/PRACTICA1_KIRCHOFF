@@ -61,7 +61,7 @@
 
 ###### **Tabla 1.3. Verificación de la LCK.**
 
-
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/Tab3_Part1.jpg)
 ![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/Tab3_Part2.jpg)
 
 # **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
