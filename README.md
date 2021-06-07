@@ -24,3 +24,8 @@ Integrantes
 
 ![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/mteriales.png)
 
+# 3. EXPLICAACIÓN DEL PROCEDIMIENTO
+
+## 3.2 Procedimiento
+
+
