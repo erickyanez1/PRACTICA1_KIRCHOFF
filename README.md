@@ -1,18 +1,23 @@
 # InformeLaboratorio
 
-Integrantes
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/espe.png)
 
- •Arias Marco
+# **INTEGRANTES**
+
+- Arias Marco
+- Villavicencio Alina
+- Yánez Erick
+
+
+# **1. OBJETIVOS**
+
+**OBJETIVO GENERAL**
+  - asdasd
  
- •Villavicencio Alina
-  
- •Yánez Erick
- 
-# 1.OBJETIVOS
-
-###### Objetivo General 
-
-###### Objetivos Específicos
+ **OBJETIVOS ESPECÍFICOS**
+  - asdasd
+  - asd
+  - asd
 
 # 2. MARCO TEÓRICO
 
