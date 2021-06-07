@@ -58,4 +58,11 @@ Integrantes
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+# 5. VIDEO
+
+# 6. CONCLUSIONES
+
+# 7. BIBLIOGRAFÍA
+
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
 
