@@ -66,6 +66,8 @@
 
 ###### **3.1.5  Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.**
 
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/Tab3_Part3.jpg)
+
 # **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 # **5. VIDEO**
