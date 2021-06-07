@@ -51,4 +51,7 @@ Integrantes
 
 ![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/img8_tabla2.png)
 
+###### 3.1.4  Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo,tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo.Anote los resultados de la tabla 1.3.
+
+
 
