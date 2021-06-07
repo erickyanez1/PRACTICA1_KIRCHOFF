@@ -20,3 +20,7 @@ Integrantes
 ![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/Marco_teorico_map_2.png)
 ![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/Marco_teorico_map_3.png)
 
+###### MATERIAL Y EQUIPO REQUERIDO
+
+![](https://github.com/erickyanez1/IMG-KIRCHOFF/blob/main/mteriales.png)
+
