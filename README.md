@@ -41,9 +41,9 @@
 
 </div>
 
-# **3. EXPLICAACIÓN DEL PROCEDIMIENTO**
+# **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-## **3.1 Procedimiento**
+## **3.1 PROCEDIMIENTO**
 
 ###### **3.1.1 Arme el circuito que se muestra en la figura 1.1.**
 
@@ -108,7 +108,7 @@
 
 </div>
 
-# **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+# **4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR**
 
 ###### **3.1.5  Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.**
 
