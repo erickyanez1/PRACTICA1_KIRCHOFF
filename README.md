@@ -69,9 +69,9 @@
 
 Se concluye que:
 
-- A partir de la lectura realizada de ambos capitulos, fuimos capaces de resolver diferentes problemas de conversiones numéricas y de potencias de diez, lo cuál nos facilitó la comprensión de las Unidades del Sistema Internacional.
-- Una vez realizados los cálculos y diagramas de circuitos electrónicos, fuimos capaces de entender el concepto de como convergen los conceptos de Voltaje, Resistencia e Intensidad con el fin de relacionarlos unos a otros con la Ley de Ohm.
-- Al realizar esta practica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0 .
+- asd
+- asd
+- Al realizar esta practica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0.
 
 # **7. BIBLIOGRAFÍA**
 
