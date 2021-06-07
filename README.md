@@ -62,6 +62,10 @@ Integrantes
 
 # 6. CONCLUSIONES
 
+•
+
+•
+
 • Al realizar esta practica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0 .
 
 # 7. BIBLIOGRAFÍA
