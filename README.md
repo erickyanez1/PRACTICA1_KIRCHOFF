@@ -127,7 +127,7 @@ https://youtu.be/UuuMiGRsx1U
 Se concluye que:
 
 - La Ley Ohm nos permite el cálculo correcto y acertado de circuitos electrónicos básicos y complejos para la optimización de un circuito que se desee realizar por el fabricante, es por ello que es de suma importancia conocer todas las leyes que Ohm propone.
-- Va a existir un porcentaje de error mínimo entre los valores calculados y valores medidos. El valor medido en esta practica fueron ideales debido a que se realizo en una simulación.
+- Va a existir un porcentaje de error mínimo entre los valores calculados y valores medidos, el valor medido en esta practica son ideales debido a que se realizo en una simulación.
 - Al realizar esta práctica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0.
 
 # **7. BIBLIOGRAFÍA**
