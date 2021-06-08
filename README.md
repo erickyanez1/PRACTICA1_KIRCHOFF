@@ -134,7 +134,4 @@ Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
 
 Mantilla Quijano, G., & González, H. (1977). La segunda ley de Kirchhoff.
 
-Mecatrónica LATAM. 2021. Leyes de Kirchhoff. [online] Available at: <https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/> [Accessed 7 June 2021].
-
-
-
+Mecatrónica LATAM. (2021). Leyes de Kirchhoff. Recuperado el 07 de junio del 2021 de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
