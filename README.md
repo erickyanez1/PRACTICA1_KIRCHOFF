@@ -16,12 +16,12 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - asdasd
+  - Comprender La Ley de Ohm para la manipulación de cálculos de Voltaje, Intensidad y Resistencia en Circuitos Electrónicos lo cual permita el conocimiento profundo de nuestro circuito a realizar.
  
  **OBJETIVOS ESPECÍFICOS**
-  - asdasd
-  - asd
-  - asd
+  - Analizar los conceptos de como influye tanto en la Resistencia e Intensidad los circuitos de forma en serie y paralela.
+  - Conocer las Leyes de Kirchhoff mediante la realización de circuitos con el fin de que nos facilite circuitos grandes de mallas.
+  - Calcular los valores de porcentajes de error con el fin de introducirnos en errores mínimos debido a decimales al momento del cálculo.
 
 # **2. MARCO TEÓRICO**
 
@@ -126,9 +126,9 @@ https://youtu.be/UuuMiGRsx1U
 
 Se concluye que:
 
-- asd
-- Se comprobó los datos obtenidos mediante la medición en el simulador con un porcentaje de error mínimo.
-- Al realizar esta practica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0.
+- La Ley Ohm nos permite el cálculo correcto y acertado de circuitos electrónicos básicos y complejos para la optimización de un circuito que se desee realizar por el fabricante, es por ello que es de suma importancia conocer todas las leyes que Ohm propone.
+- Se aplico la ley de Kirchhoff para intensidades, donde nos indica que la suma de las intensidades que entran al nodo va a ser igual a la suma de las intensidades que salen. Se comprobó los datos obtenidos mediante la medición en el simulador con un porcentaje de error mínimo.
+- Al realizar esta práctica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0.
 
 # **7. BIBLIOGRAFÍA**
 
