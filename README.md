@@ -127,7 +127,7 @@ https://youtu.be/UuuMiGRsx1U
 Se concluye que:
 
 - La Ley Ohm nos permite el cálculo correcto y acertado de circuitos electrónicos básicos y complejos para la optimización de un circuito que se desee realizar por el fabricante, es por ello que es de suma importancia conocer todas las leyes que Ohm propone.
-- Se aplico la ley de Kirchhoff para intensidades, donde nos indica que la suma de las intensidades que entran al nodo va a ser igual a la suma de las intensidades que salen. Se comprobó los datos obtenidos mediante la medición en el simulador con un porcentaje de error mínimo.
+- Se comprobó los datos obtenidos mediante la medición en el simulador con un porcentaje de error mínimo.
 - Al realizar esta práctica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0.
 
 # **7. BIBLIOGRAFÍA**
